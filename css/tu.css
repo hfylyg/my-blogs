@@ -20,6 +20,7 @@ header .head h3{
     text-align: center;
     line-height: 0.88rem;
     color: black;
+
 }
 header .head h3 a{
     color: #000;
@@ -45,7 +46,7 @@ main{
 .piclist li .text{
     width:100%;
     height: auto;
-    padding: 0.05rem;
+    padding: 0.1rem;
     /*background: pink;*/
 }
 .piclist li .text h5{
@@ -57,4 +58,5 @@ main{
     font-size: 0.28rem;
     line-height: 0.66rem;
     color: #000;
+    font-weight: 500;
 }

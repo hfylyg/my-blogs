@@ -58,7 +58,7 @@ header{
 .content{
     width: 100%;
     height: auto;
-    padding: 0.05rem;
+    padding: 0.1rem 0.15rem;
     font-size: 0.28rem;
     color: #000;
     line-height: 0.5rem;

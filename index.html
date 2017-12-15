@@ -97,5 +97,15 @@
 </body>
 <script src='js/swiper.min.js'></script>
 <script src='js/rem.js'></script>
-<script src='js/index.js'></script>
+<script>
+    var swiper = new Swiper('.banner', {
+    pagination: {
+        el: '.btn',
+        loop:true,
+        keyboard : true,
+        autoplay:2000
+
+    }
+});
+</script>
 </html>
